@@ -434,6 +434,18 @@
     [
       "07c473a3-19f8-4492-9997-b494b1996c87",
       "OSCVoice1"
+    ],
+    [
+      "61a45bbe-3c79-4a58-ba60-939f33076f4c",
+      "OSCVoice2"
+    ],
+    [
+      "3fb79cf5-5f43-45eb-8dbe-e7a5213293f8",
+      "OSCVoice4"
+    ],
+    [
+      "5a2c2170-f030-4256-a64a-16cf3de949f5",
+      "OSCVoice3"
     ]
   ],
   "text_variables": {}
