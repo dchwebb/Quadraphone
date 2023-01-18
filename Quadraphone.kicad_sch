@@ -5103,16 +5103,16 @@
     (path "/c1fdd578-09a5-49ec-8a8f-d23edc7cd5dc"
       (reference "U5") (unit 5) (value "MCP6004") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
-    (path "/07c473a3-19f8-4492-9997-b494b1996c87/4cd3c34b-83d0-4534-aa14-0d85f7c3aaf2"
+    (path "/07c473a3-19f8-4492-9997-b494b1996c87/9dcec774-4f2b-46a5-88ad-d15c84115c9e"
       (reference "U6") (unit 1) (value "4066") (footprint "Package_SO:TSSOP-14_4.4x5mm_P0.65mm")
     )
-    (path "/07c473a3-19f8-4492-9997-b494b1996c87/2ee7557a-4e53-4b59-9973-9e13687ca02f"
+    (path "/07c473a3-19f8-4492-9997-b494b1996c87/4cd3c34b-83d0-4534-aa14-0d85f7c3aaf2"
       (reference "U6") (unit 2) (value "4066") (footprint "Package_SO:TSSOP-14_4.4x5mm_P0.65mm")
     )
-    (path "/07c473a3-19f8-4492-9997-b494b1996c87/ad8983ec-8d9a-435a-be19-2f987c16e449"
+    (path "/07c473a3-19f8-4492-9997-b494b1996c87/2ee7557a-4e53-4b59-9973-9e13687ca02f"
       (reference "U6") (unit 3) (value "4066") (footprint "Package_SO:TSSOP-14_4.4x5mm_P0.65mm")
     )
-    (path "/07c473a3-19f8-4492-9997-b494b1996c87/9dcec774-4f2b-46a5-88ad-d15c84115c9e"
+    (path "/07c473a3-19f8-4492-9997-b494b1996c87/ad8983ec-8d9a-435a-be19-2f987c16e449"
       (reference "U6") (unit 4) (value "4066") (footprint "Package_SO:TSSOP-14_4.4x5mm_P0.65mm")
     )
     (path "/07c473a3-19f8-4492-9997-b494b1996c87/9b3c9edb-77d6-46b2-b6d4-84492b65c96f"
