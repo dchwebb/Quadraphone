@@ -7,7 +7,6 @@
       "GND",
       "+2V5",
       "+12V",
-      "+5V",
       "-12V",
       "-5V"
     ],
@@ -23,14 +22,14 @@
     "selection_filter": {
       "dimensions": false,
       "footprints": true,
-      "graphics": false,
+      "graphics": true,
       "keepouts": false,
-      "lockedItems": false,
+      "lockedItems": true,
       "otherItems": false,
       "pads": false,
-      "text": true,
+      "text": false,
       "tracks": true,
-      "vias": false,
+      "vias": true,
       "zones": false
     },
     "visible_items": [
@@ -43,6 +42,7 @@
       8,
       9,
       10,
+      11,
       12,
       13,
       14,
@@ -67,7 +67,7 @@
       35,
       36
     ],
-    "visible_layers": "ffdffff_ffffffff",
+    "visible_layers": "ffdffdf_ffffffff",
     "zone_display_mode": 1
   },
   "meta": {
