@@ -5,11 +5,7 @@
     "auto_track_width": false,
     "hidden_nets": [
       "GND",
-      "+2V5",
-      "+12V",
-      "+5V",
-      "-12V",
-      "-5V"
+      "+2V5"
     ],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
