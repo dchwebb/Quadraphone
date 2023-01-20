@@ -1,12 +1,13 @@
 {
   "board": {
-    "active_layer": 33,
+    "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": false,
     "hidden_nets": [
       "GND",
       "+2V5",
       "+12V",
+      "+5V",
       "-12V",
       "-5V"
     ],
@@ -29,8 +30,8 @@
       "pads": false,
       "text": true,
       "tracks": true,
-      "vias": false,
-      "zones": false
+      "vias": true,
+      "zones": true
     },
     "visible_items": [
       0,
@@ -67,7 +68,7 @@
       35,
       36
     ],
-    "visible_layers": "ffdffff_ffffffff",
+    "visible_layers": "ffdffdf_ffffffff",
     "zone_display_mode": 1
   },
   "meta": {
