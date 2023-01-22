@@ -1,4 +1,4 @@
-20565322094321010
+20568670891221667
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -50323,6 +50323,13 @@ mounting hole 6mm no annular
 0
 0
 Custom_Footprints
+RJ45_Molex_42878-8506
+RJ45 vertical connector https://www.on-shore.com/wp-content/uploads/PJ012-8P8CX.pdf
+RJ45 PJ012
+0
+8
+8
+Custom_Footprints
 SPDTSubMiniature
 SPDT Sub Miniature Switch
 Switch SPDT
@@ -50357,6 +50364,13 @@ SWD ARM Header Programmer
 0
 4
 4
+Custom_Footprints
+SW_100DP3T1B1M2QEH
+
+
+0
+6
+6
 Custom_Footprints
 SW_PUSH_6mm_aligned
 https://www.omron.com/ecb/products/pdf/en-b3f.pdf
