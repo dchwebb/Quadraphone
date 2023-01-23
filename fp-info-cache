@@ -1,4 +1,4 @@
-20568670891221667
+20570345383980915
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -50140,6 +50140,13 @@ SMD SMT crystal hand-soldering
 0
 2
 2
+Custom_Footprints
+DPDT_Switch_MountingHole_6mm
+Mounting Hole 6mm, no annular
+mounting hole 6mm no annular
+0
+0
+0
 Custom_Footprints
 D_SOD-123_custom
 SOD-123
