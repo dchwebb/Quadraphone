@@ -15,8 +15,8 @@
     "ratsnest_display_mode": 0,
     "selection_filter": {
       "dimensions": true,
-      "footprints": false,
-      "graphics": true,
+      "footprints": true,
+      "graphics": false,
       "keepouts": true,
       "lockedItems": false,
       "otherItems": true,
@@ -62,7 +62,7 @@
       35,
       36
     ],
-    "visible_layers": "ffeffff_ffffffff",
+    "visible_layers": "ffeffdf_ffffffff",
     "zone_display_mode": 1
   },
   "meta": {
