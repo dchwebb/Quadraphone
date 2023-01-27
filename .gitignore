@@ -25,3 +25,4 @@ Quadraphone-backups\
 *.launch
 
 \#auto_saved_files\#
+*.kicad_sch-bak

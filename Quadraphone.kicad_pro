@@ -407,7 +407,8 @@
           "+5V",
           "-12V",
           "/+12V_IN",
-          "/-12V_IN"
+          "/-12V_IN",
+          "GND"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
