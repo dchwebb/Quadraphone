@@ -1,8 +1,8 @@
 {
   "board": {
-    "active_layer": 37,
-    "active_layer_preset": "",
-    "auto_track_width": false,
+    "active_layer": 31,
+    "active_layer_preset": "All Layers",
+    "auto_track_width": true,
     "hidden_nets": [],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
@@ -42,6 +42,7 @@
       14,
       15,
       16,
+      17,
       18,
       19,
       20,
@@ -61,11 +62,11 @@
       35,
       36
     ],
-    "visible_layers": "ffdfeef_7ffffff8",
+    "visible_layers": "fffffff_ffffffff",
     "zone_display_mode": 1
   },
   "meta": {
-    "filename": "Quadraphone.kicad_prl",
+    "filename": "Quadraphone_Breakout_Controls.kicad_prl",
     "version": 3
   },
   "project": {
