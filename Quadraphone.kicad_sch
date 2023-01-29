@@ -4118,7 +4118,7 @@
     (property "Value" "2k7" (id 1) (at 81.788 129.413 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (id 2) (at 80.01 128.27 0)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 80.01 128.27 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 80.01 128.27 0)
@@ -5271,7 +5271,7 @@
       (reference "R6") (unit 1) (value "14k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/d6a1ef48-3fb4-4411-8ea9-341924f44be8"
-      (reference "R7") (unit 1) (value "2k7") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+      (reference "R7") (unit 1) (value "2k7") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/07c473a3-19f8-4492-9997-b494b1996c87/60c24d85-a7f7-491a-9c0f-54e47fc539d5"
       (reference "R8") (unit 1) (value "22k") (footprint "Resistor_SMD:R_0603_1608Metric")
