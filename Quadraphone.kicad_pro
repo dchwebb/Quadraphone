@@ -429,8 +429,8 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
-      "vrml": ""
+      "step": "Graphics/Quadraphone_Components.step",
+      "vrml": "Graphics/Quadraphone.wrl"
     },
     "page_layout_descr_file": ""
   },

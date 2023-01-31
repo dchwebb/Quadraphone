@@ -379,7 +379,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Quadraphone_Breakout_Panel.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
