@@ -2,7 +2,7 @@
   "board": {
     "active_layer": 0,
     "active_layer_preset": "",
-    "auto_track_width": false,
+    "auto_track_width": true,
     "hidden_nets": [],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
@@ -14,17 +14,17 @@
     },
     "ratsnest_display_mode": 0,
     "selection_filter": {
-      "dimensions": true,
+      "dimensions": false,
       "footprints": true,
-      "graphics": true,
-      "keepouts": true,
-      "lockedItems": true,
-      "otherItems": true,
+      "graphics": false,
+      "keepouts": false,
+      "lockedItems": false,
+      "otherItems": false,
       "pads": true,
-      "text": true,
+      "text": false,
       "tracks": true,
-      "vias": true,
-      "zones": true
+      "vias": false,
+      "zones": false
     },
     "visible_items": [
       0,
@@ -33,6 +33,7 @@
       3,
       4,
       5,
+      7,
       8,
       9,
       10,
@@ -42,6 +43,7 @@
       14,
       15,
       16,
+      17,
       18,
       19,
       20,
@@ -61,11 +63,11 @@
       35,
       36
     ],
-    "visible_layers": "ffdffff_ffffffff",
+    "visible_layers": "ffcffff_ffffffff",
     "zone_display_mode": 1
   },
   "meta": {
-    "filename": "VCO_Test.kicad_prl",
+    "filename": "Quadraphone_Controls.kicad_prl",
     "version": 3
   },
   "project": {

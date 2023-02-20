@@ -1,4 +1,4 @@
-20983353236433389
+20981676755520174
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -50371,13 +50371,6 @@ Custom_Footprints
 0
 18
 18
-Custom_Footprints
-100DP6T1B1M2QE_ON_ON_ON
-
-
-0
-6
-6
 Custom_Footprints
 ARM-UQFN-48-7x7mm_Pitch0.5mm
 UK Package; 48-Lead Plastic QFN (7mm x 7mm); (see Linear Technology QFN_48_05-08-1704.pdf)
