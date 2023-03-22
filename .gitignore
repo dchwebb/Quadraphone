@@ -1,5 +1,6 @@
 VCO_Test-backups\
 Quadraphone-backups\
+Quadraphone_Controls-backups/
 
 #*.html
 *.log
@@ -26,3 +27,4 @@ Quadraphone-backups\
 
 \#auto_saved_files\#
 *.kicad_sch-bak
+

@@ -6,8 +6,8 @@
 
   (title_block
     (title "Quadraphone Controls")
-    (date "2023-03-02")
-    (rev "2.0")
+    (date "2023-03-19")
+    (rev "3.0")
     (company "Mountjoy Modular")
   )
 
@@ -1329,9 +1329,13 @@
     (uuid 940bac77-1364-4040-8115-e7413d200302)
   )
   (text "v2.0 fixes:\nOutput type switch mirrored in X plane\nEthernet connections incorrectly mapped\nAdded interconnects for V/Oct and Mix Out"
-    (at 238.76 177.8 0)
+    (at 237.49 177.8 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 9b88b0b0-68fb-430f-b6e2-d7fedce6b645)
+  )
+  (text "v3.0 fixes:\nMix out 2 and 3 reversed" (at 182.88 172.72 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid bc8c5daa-d1a5-4b1c-9bec-caf31a0f5248)
   )
   (text "Sockets" (at 181.61 161.29 0)
     (effects (font (size 3 3)) (justify left bottom))
@@ -1382,7 +1386,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 2c95e70f-0fc2-4337-aead-ee35ddf33dca)
   )
-  (label "MIX_OUT3" (at 256.54 149.86 0)
+  (label "MIX_OUT3" (at 256.54 147.32 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 3b60d547-c06e-451a-b706-427e432533e2)
   )
@@ -1474,7 +1478,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 8dcae392-395a-4ece-b971-41742e16c7ff)
   )
-  (label "MIX_OUT2" (at 256.54 147.32 0)
+  (label "MIX_OUT2" (at 256.54 149.86 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 8dfe03c3-4648-4fcc-b014-3baa1b696c0c)
   )
