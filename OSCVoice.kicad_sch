@@ -2110,7 +2110,7 @@
   (symbol (lib_id "Diode:1N5819") (at 133.35 62.23 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 1e39fbab-7944-4fcc-8dc8-dd9357d0674a)
-    (property "Reference" "D3" (id 0) (at 133.35 67.7164 0))
+    (property "Reference" "D6" (id 0) (at 133.35 67.7164 0))
     (property "Value" "CDBU40" (id 1) (at 133.35 65.405 0))
     (property "Footprint" "Diode_SMD:D_0603_1608Metric" (id 2) (at 133.35 66.675 0)
       (effects (font (size 1.27 1.27)) hide)
