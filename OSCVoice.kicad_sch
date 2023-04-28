@@ -2361,7 +2361,7 @@
     (in_bom yes) (on_board yes)
     (uuid 60b29eda-420b-486a-a1ff-8025e17bd651)
     (property "Reference" "R89" (id 0) (at 49.53 100.33 90))
-    (property "Value" "49.9k" (id 1) (at 49.53 95.25 90))
+    (property "Value" "100k" (id 1) (at 49.53 95.25 90))
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 49.53 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
