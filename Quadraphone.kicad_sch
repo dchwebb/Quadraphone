@@ -2412,7 +2412,8 @@
     (uuid fca2b52d-2ef2-4cfb-9ace-98b02b0389e3)
   )
 
-  (text "Rev 2.0: Added startup synch pulse circuit" (at 181.61 171.45 0)
+  (text "Rev 2.0: Added startup synch pulse circuit\nRev 3.0: Remove jumper R5; Separate buffer for PWM opamp power\n"
+    (at 181.61 171.45 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 04d22ddf-a72a-49fb-8edf-948d9ad7b637)
   )
@@ -3685,7 +3686,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 7a15597e-9d4f-4122-b1ab-d8625a3b9e2d)
     (property "Reference" "R5" (id 0) (at 106.68 129.54 90))
-    (property "Value" "100" (id 1) (at 106.68 132.08 90))
+    (property "Value" "0" (id 1) (at 106.68 132.08 90))
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 106.68 135.89 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5558,7 +5559,7 @@
       (reference "R4") (unit 1) (value "14k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/7a15597e-9d4f-4122-b1ab-d8625a3b9e2d"
-      (reference "R5") (unit 1) (value "100") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R5") (unit 1) (value "0") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/bc8395c1-783c-4b85-9f9b-f291e690c543"
       (reference "R6") (unit 1) (value "14k") (footprint "Resistor_SMD:R_0603_1608Metric")
