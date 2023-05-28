@@ -1,8 +1,8 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 41,
     "active_layer_preset": "",
-    "auto_track_width": false,
+    "auto_track_width": true,
     "hidden_nets": [],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
@@ -14,17 +14,17 @@
     },
     "ratsnest_display_mode": 0,
     "selection_filter": {
-      "dimensions": false,
+      "dimensions": true,
       "footprints": true,
-      "graphics": false,
-      "keepouts": false,
-      "lockedItems": false,
+      "graphics": true,
+      "keepouts": true,
+      "lockedItems": true,
       "otherItems": true,
       "pads": false,
       "text": true,
       "tracks": true,
       "vias": true,
-      "zones": false
+      "zones": true
     },
     "visible_items": [
       0,
@@ -42,6 +42,7 @@
       14,
       15,
       16,
+      17,
       18,
       19,
       20,
@@ -61,11 +62,11 @@
       35,
       36
     ],
-    "visible_layers": "ffdfeff_fffffffd",
+    "visible_layers": "ffdffff_ffffffff",
     "zone_display_mode": 1
   },
   "meta": {
-    "filename": "Quadraphone.kicad_prl",
+    "filename": "Quadraphone_Panel.kicad_prl",
     "version": 3
   },
   "project": {
