@@ -31,3 +31,5 @@ Construction is a sandwich of three PCBs with a component board, a controls boar
 
 In addition the the Eurorack +/-12V rails (which have polarity protection and filtering) a 5v rail is supplied using an AMS1117-5.0 LDO. A 2.5v rail is generated with an LM4040DBZ-2.5 and buffered with an MCP6002 opamp and a -5v reference is generated with an LM4040DBZ-5.0.
 
++12V current draw: 44mA
+-12V current draw: 34mA
