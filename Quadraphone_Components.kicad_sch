@@ -2924,7 +2924,7 @@
     (pin "8" (uuid aef8c957-4826-4ad8-b300-13036fe3e528))
     (pin "9" (uuid bb3323d6-b092-4c69-86ec-b1b0621c8b5d))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "J5") (unit 1)
         )
@@ -2949,7 +2949,7 @@
     )
     (pin "1" (uuid 7373c538-3b4b-4a18-a553-ee22eaf5261f))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "#PWR03") (unit 1)
         )
@@ -2987,7 +2987,7 @@
     (pin "14" (uuid 6d2488b2-569b-4847-b580-67f3be842dbf))
     (pin "7" (uuid 38055031-abe0-4eed-a290-f03c677fba23))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "U8") (unit 5)
         )
@@ -3019,7 +3019,7 @@
     (pin "4" (uuid d9779a9c-0f2d-47b5-86be-10b070948c63))
     (pin "8" (uuid 1a9cef36-de39-493c-be90-fc97697a9336))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "U3") (unit 1)
         )
@@ -3044,7 +3044,7 @@
     )
     (pin "1" (uuid c83e7100-4f65-4a72-8ef2-1d3a2de89e1e))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "#PWR028") (unit 1)
         )
@@ -3069,7 +3069,7 @@
     )
     (pin "1" (uuid 59f45a97-97b3-40a8-93b6-793c7d17b383))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "#PWR025") (unit 1)
         )
@@ -3094,7 +3094,7 @@
     )
     (pin "1" (uuid ab853357-33bc-4c74-91e3-d7fd15e71591))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "#FLG0101") (unit 1)
         )
@@ -3119,7 +3119,7 @@
     )
     (pin "1" (uuid 99f100ee-0f95-4a87-b2fb-fcc8f1fb6ba1))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "#PWR0101") (unit 1)
         )
@@ -3144,7 +3144,7 @@
     )
     (pin "1" (uuid b13d36ce-fa91-43ee-a5e8-985dd00b6aab))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "#FLG0103") (unit 1)
         )
@@ -3169,7 +3169,7 @@
     )
     (pin "1" (uuid c46126e3-511e-45e6-86b8-cb224e248004))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "#PWR018") (unit 1)
         )
@@ -3201,7 +3201,7 @@
     (pin "1" (uuid 65b53f6d-c954-4d6c-b76e-151b8a9d2bf3))
     (pin "2" (uuid ccb6733d-d892-4f22-b00a-7c0390cafcb6))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "C11") (unit 1)
         )
@@ -3226,7 +3226,7 @@
     )
     (pin "1" (uuid 7f61838e-0495-42ef-9731-a181c3c944a4))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "#PWR010") (unit 1)
         )
@@ -3251,7 +3251,7 @@
     )
     (pin "1" (uuid 0075aa43-7887-4f8e-8805-0f88f7a8ca5a))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "#PWR0141") (unit 1)
         )
@@ -3276,7 +3276,7 @@
     )
     (pin "1" (uuid 43df2872-a35d-46ff-b733-517462ec619f))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "#FLG0105") (unit 1)
         )
@@ -3301,7 +3301,7 @@
     )
     (pin "1" (uuid e3a86586-ac54-42d0-8e9d-c010720f24cb))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "#PWR019") (unit 1)
         )
@@ -3335,7 +3335,7 @@
     (pin "8" (uuid 79f20f30-f38f-4063-be0a-fd2017b0f3e0))
     (pin "9" (uuid fc6ba916-5200-4919-b504-5d3d8de030f1))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "J3") (unit 1)
         )
@@ -3361,7 +3361,7 @@
     (pin "1" (uuid d4029803-4440-41f1-8012-7dc4a3f31cc6))
     (pin "2" (uuid 7f9c0f2a-905e-4bd2-952f-4c4722e8d29e))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "R2") (unit 1)
         )
@@ -3386,7 +3386,7 @@
     )
     (pin "1" (uuid 5fd7435c-0350-4a25-b9e8-caf6f79b947c))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "#PWR02") (unit 1)
         )
@@ -3420,7 +3420,7 @@
     (pin "8" (uuid b2d6f283-35b0-4445-88d8-95c430de9f91))
     (pin "9" (uuid ff6f6910-f05f-49dc-bf3e-94b393a5af9e))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "J2") (unit 1)
         )
@@ -3445,7 +3445,7 @@
     )
     (pin "1" (uuid aff7ae77-de41-4135-8727-d600ab4600a6))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "TP7") (unit 1)
         )
@@ -3470,7 +3470,7 @@
     )
     (pin "1" (uuid 3fd6e381-57dc-41b2-abbe-11e8ef99c83a))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "TP3") (unit 1)
         )
@@ -3495,7 +3495,7 @@
     )
     (pin "1" (uuid 64d09eed-ec2a-41e6-9e95-369a51a43f0f))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "#PWR013") (unit 1)
         )
@@ -3520,7 +3520,7 @@
     )
     (pin "1" (uuid c461c991-8bf7-42be-92bd-0e8767c7c0f1))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "#PWR011") (unit 1)
         )
@@ -3545,7 +3545,7 @@
     )
     (pin "1" (uuid 83c3b941-b622-4e4c-8e9d-5dd55ffe9d8f))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "#PWR027") (unit 1)
         )
@@ -3571,7 +3571,7 @@
     (pin "1" (uuid 5a5dbf9f-c482-4000-ad19-f8b5fb900867))
     (pin "2" (uuid d200bfdc-4b70-4426-9d60-332a24f03b85))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "C7") (unit 1)
         )
@@ -3596,7 +3596,7 @@
     )
     (pin "1" (uuid dcb0d01d-3160-4e8d-9578-ece8ede17f84))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "TP5") (unit 1)
         )
@@ -3622,7 +3622,7 @@
     (pin "1" (uuid 6ff53ed0-a74f-43a7-945b-f00a5333a686))
     (pin "2" (uuid 0e7a9cbc-79c4-4458-b425-0ef83b738f18))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "C9") (unit 1)
         )
@@ -3648,7 +3648,7 @@
     (pin "1" (uuid aecffe7e-a82f-4de7-a85b-132ebb66a75f))
     (pin "2" (uuid 83400b71-aa05-4153-b75d-e03573afb3e0))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "C32") (unit 1)
         )
@@ -3680,7 +3680,7 @@
     (pin "1" (uuid 86ff386f-2961-43a3-a896-dba409119755))
     (pin "2" (uuid 917ca6f3-f86e-4a07-86a7-a699274825d6))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "C12") (unit 1)
         )
@@ -3705,7 +3705,7 @@
     )
     (pin "1" (uuid e34b0551-82a5-47a2-b77a-1c4a924726b1))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "#FLG0107") (unit 1)
         )
@@ -3730,7 +3730,7 @@
     )
     (pin "1" (uuid e9450878-1c1f-483e-b6f0-994a1293f4f7))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "TP8") (unit 1)
         )
@@ -3762,7 +3762,7 @@
     (pin "4" (uuid 8b758666-1d2d-4ff9-9702-78ef29e368ce))
     (pin "8" (uuid 6729e9b3-9fb2-4e2d-bedc-df104d48ed4c))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "U3") (unit 3)
         )
@@ -3787,7 +3787,7 @@
     )
     (pin "1" (uuid 6f0a64ed-6c3f-4a7e-8f03-eccbdac6f574))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "TP6") (unit 1)
         )
@@ -3813,7 +3813,7 @@
     (pin "1" (uuid b288fad2-1020-4a07-b3c6-45e6e7801679))
     (pin "2" (uuid 79a4e936-1064-455f-ba7c-5d04bdd05f5b))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "R102") (unit 1)
         )
@@ -3838,7 +3838,7 @@
     )
     (pin "1" (uuid b8d87bc8-07f4-497c-b19f-9878044d1362))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "#PWR029") (unit 1)
         )
@@ -3863,7 +3863,7 @@
     )
     (pin "1" (uuid 20f74350-4af4-4c71-9417-c5db86b1db96))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "#PWR039") (unit 1)
         )
@@ -3888,7 +3888,7 @@
     )
     (pin "1" (uuid dd08555b-52d3-4fa6-8525-15849cb1fd77))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "#PWR0104") (unit 1)
         )
@@ -3913,7 +3913,7 @@
     )
     (pin "1" (uuid f70bdfdb-d2bd-4e82-af44-d385f7c84b34))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "#PWR012") (unit 1)
         )
@@ -3938,7 +3938,7 @@
     )
     (pin "1" (uuid cfd93f26-a08a-4320-bfc3-c800b0ff100e))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "#PWR05") (unit 1)
         )
@@ -3963,7 +3963,7 @@
     )
     (pin "1" (uuid a174d968-1526-4489-a085-fbce65cc11dd))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "#PWR0137") (unit 1)
         )
@@ -3989,7 +3989,7 @@
     (pin "1" (uuid 34925355-faea-4aab-946a-52b46658bcfb))
     (pin "2" (uuid bfd2ab12-9e02-4fee-a7a9-788723696486))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "C3") (unit 1)
         )
@@ -4015,7 +4015,7 @@
     (pin "1" (uuid 2ebebbfa-c71b-4d9d-91c3-aa32603a0576))
     (pin "2" (uuid 2449ab92-d7bc-410e-847a-a669d429f04d))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "U4") (unit 1)
         )
@@ -4040,7 +4040,7 @@
     )
     (pin "1" (uuid 92fbe8fc-07ce-4de1-8c98-0dbcbda9630e))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "#PWR0120") (unit 1)
         )
@@ -4065,7 +4065,7 @@
     )
     (pin "1" (uuid c361dc28-8b04-49db-bcb1-2fdae0a4ae95))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "#PWR0102") (unit 1)
         )
@@ -4090,7 +4090,7 @@
     )
     (pin "1" (uuid b4638946-cb70-4b5b-9fb1-3085bf518960))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "#PWR026") (unit 1)
         )
@@ -4116,7 +4116,7 @@
     (pin "1" (uuid 28a83d4b-dc67-4c36-a657-5a69e8d56953))
     (pin "2" (uuid 66db79f4-8d8b-4258-b991-85a97deafe50))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "C10") (unit 1)
         )
@@ -4142,7 +4142,7 @@
     (pin "1" (uuid af980902-f7d2-4e1f-b761-afa7a0a9c7f6))
     (pin "2" (uuid 3264f917-3104-409d-84b2-b62d295d2200))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "R3") (unit 1)
         )
@@ -4167,7 +4167,7 @@
     )
     (pin "1" (uuid c4709df0-623b-4fa0-98aa-65300c43a111))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "#PWR0119") (unit 1)
         )
@@ -4192,7 +4192,7 @@
     )
     (pin "1" (uuid eaa27043-0239-4320-a3c7-3b51ae33d8c1))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "#PWR09") (unit 1)
         )
@@ -4217,7 +4217,7 @@
     )
     (pin "1" (uuid 9e3cb6c5-40d1-4fff-902d-106d79f5c512))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "#PWR038") (unit 1)
         )
@@ -4249,7 +4249,7 @@
     (pin "4" (uuid 8b758666-1d2d-4ff9-9702-78ef29e368cf))
     (pin "8" (uuid 6729e9b3-9fb2-4e2d-bedc-df104d48ed4d))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "U3") (unit 2)
         )
@@ -4274,7 +4274,7 @@
     )
     (pin "1" (uuid 484390a0-a49c-4a35-93cc-a0f3f1b9cd1d))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "#PWR0107") (unit 1)
         )
@@ -4300,7 +4300,7 @@
     (pin "1" (uuid d611b2e4-9828-4899-bc00-52f441d10c1e))
     (pin "2" (uuid eb98a43a-7255-4164-a17a-4d8cf0115174))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "R4") (unit 1)
         )
@@ -4325,7 +4325,7 @@
     )
     (pin "1" (uuid 688fc78b-d155-435d-ad93-89d262340246))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "#PWR0121") (unit 1)
         )
@@ -4351,7 +4351,7 @@
     (pin "1" (uuid 24dbd0d3-49e9-43c2-b5d0-2af99fda5f6a))
     (pin "2" (uuid 5d5f0bf0-0834-4dd5-9ba4-1d71bb5d2de9))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "R100") (unit 1)
         )
@@ -4376,7 +4376,7 @@
     )
     (pin "1" (uuid f977ce85-26f4-4787-bbc2-01c80232f041))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "#PWR030") (unit 1)
         )
@@ -4401,7 +4401,7 @@
     )
     (pin "1" (uuid 0e5cbd7f-7b85-4a2f-9076-969b741c39d0))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "TP1") (unit 1)
         )
@@ -4426,7 +4426,7 @@
     )
     (pin "1" (uuid 1d9e6ad7-c3b2-4783-be9c-556f85ad6623))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "#PWR041") (unit 1)
         )
@@ -4451,7 +4451,7 @@
     )
     (pin "1" (uuid cc623f10-1e87-445a-8146-d7191133abf1))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "#PWR07") (unit 1)
         )
@@ -4476,7 +4476,7 @@
     )
     (pin "1" (uuid 486e2d41-6d91-441f-b5c0-9894072c377a))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "#PWR024") (unit 1)
         )
@@ -4501,7 +4501,7 @@
     )
     (pin "1" (uuid 17e40ce0-290b-4a46-93db-073e7d5b60c4))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "#PWR023") (unit 1)
         )
@@ -4527,7 +4527,7 @@
     (pin "1" (uuid fdeb22a2-4dc3-406f-b041-c72a893a6792))
     (pin "2" (uuid c41623f5-050e-40bd-865c-94ceedc5ed4b))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "U14") (unit 1)
         )
@@ -4553,7 +4553,7 @@
     (pin "1" (uuid 53e5a178-274e-4501-be0c-2891cf780aee))
     (pin "2" (uuid 01641974-0faa-4800-8fb9-e1f3e6dc0606))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "R6") (unit 1)
         )
@@ -4582,7 +4582,7 @@
     (pin "1" (uuid 6a548704-5dae-44cd-9fce-2eb241d30a3c))
     (pin "2" (uuid 21269c0a-f8b6-454c-ad36-377e08889814))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "D2") (unit 1)
         )
@@ -4620,7 +4620,7 @@
     (pin "11" (uuid 54c11645-123d-48c0-859c-9bfcdf89a7a9))
     (pin "4" (uuid 1b968d9f-4ff9-4246-a174-6ce7eb4788a6))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "U5") (unit 5)
         )
@@ -4645,7 +4645,7 @@
     )
     (pin "1" (uuid 0085a0e4-a41a-47b7-bbe6-3e7e9cc713c3))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "#PWR0108") (unit 1)
         )
@@ -4670,7 +4670,7 @@
     )
     (pin "1" (uuid 3984a7fb-d422-4a5b-aab3-007dc30a0a5e))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "#PWR040") (unit 1)
         )
@@ -4695,7 +4695,7 @@
     )
     (pin "1" (uuid de9d4ada-e40e-439c-9f79-417787dff616))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "#PWR0103") (unit 1)
         )
@@ -4722,7 +4722,7 @@
     (pin "2" (uuid f5a32396-5fcd-4b49-a672-cab44b3f9743))
     (pin "3" (uuid ebf11446-421e-4a36-a0e4-37ed03b77362))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "Q1") (unit 1)
         )
@@ -4748,7 +4748,7 @@
     (pin "1" (uuid b5744cdd-8646-42cd-a8bb-dac38c29525f))
     (pin "2" (uuid bf9e89fa-6f03-4a86-86a0-da0a27f46822))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "R101") (unit 1)
         )
@@ -4773,7 +4773,7 @@
     )
     (pin "1" (uuid 1a945250-3809-4056-afc8-ae7e4f44b852))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "#FLG0102") (unit 1)
         )
@@ -4798,7 +4798,7 @@
     )
     (pin "1" (uuid 0efe5cf2-398f-4b09-ba8c-0956678fa74f))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "#PWR020") (unit 1)
         )
@@ -4824,7 +4824,7 @@
     (pin "1" (uuid 40b319ac-5512-4d4c-a524-6dd5220a5baf))
     (pin "2" (uuid abdc3416-862d-4921-bb3a-b57fc0161547))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "R1") (unit 1)
         )
@@ -4849,7 +4849,7 @@
     )
     (pin "1" (uuid 8769ad41-e38c-425e-90d0-aaaac8231b63))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "#PWR06") (unit 1)
         )
@@ -4874,7 +4874,7 @@
     )
     (pin "1" (uuid c557d931-ac7c-4e62-ab77-135245b94f3a))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "#PWR04") (unit 1)
         )
@@ -4900,7 +4900,7 @@
     (pin "1" (uuid 67202883-bc13-41d4-bf56-a63623626b92))
     (pin "2" (uuid 56d63c12-4027-4e2e-afac-d67d26396d98))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "C1") (unit 1)
         )
@@ -4934,7 +4934,7 @@
     (pin "8" (uuid ce7ade8a-cfd4-4902-9f1d-7dbd317d993b))
     (pin "9" (uuid cfbfab1c-4aa0-4232-8708-2c6ba6056a76))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "J4") (unit 1)
         )
@@ -4959,7 +4959,7 @@
     )
     (pin "1" (uuid 3dfc24ec-77e2-4bc7-ab0d-096373efd7cd))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "TP4") (unit 1)
         )
@@ -4983,7 +4983,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "FID1") (unit 1)
         )
@@ -5008,7 +5008,7 @@
     )
     (pin "1" (uuid bf46567f-afe5-4939-b629-88802ab91a20))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "#PWR01") (unit 1)
         )
@@ -5034,7 +5034,7 @@
     (pin "1" (uuid 85154e77-da2c-44df-805b-821d7699bf31))
     (pin "2" (uuid b7d8e974-a6ee-4a21-ad0c-4fb453fcbe7b))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "R7") (unit 1)
         )
@@ -5059,7 +5059,7 @@
     )
     (pin "1" (uuid 31bbe495-416f-4d08-af64-e2533ab09930))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "TP2") (unit 1)
         )
@@ -5084,7 +5084,7 @@
     )
     (pin "1" (uuid d8a57fed-c151-4b0e-9dd7-8748cd468701))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "#FLG0106") (unit 1)
         )
@@ -5109,7 +5109,7 @@
     )
     (pin "1" (uuid 2997f371-155e-42b7-b53b-069c66f4b46e))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "#FLG0104") (unit 1)
         )
@@ -5134,7 +5134,7 @@
     )
     (pin "1" (uuid 9331fee8-5cab-4016-bdde-5e446ebb5f38))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "#PWR0138") (unit 1)
         )
@@ -5159,7 +5159,7 @@
     )
     (pin "1" (uuid 39933418-fd47-4fa2-b98a-d98a768031ad))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "#PWR022") (unit 1)
         )
@@ -5184,7 +5184,7 @@
     )
     (pin "1" (uuid 0a3f30c4-aadb-4db2-9a6f-f5cd3ee67ecd))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "#PWR0117") (unit 1)
         )
@@ -5209,7 +5209,7 @@
     )
     (pin "1" (uuid 063fdf72-df03-4699-bf38-6cc3957adc1e))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "#PWR0118") (unit 1)
         )
@@ -5234,7 +5234,7 @@
     )
     (pin "1" (uuid 2cfd7c7f-0bec-4040-aa17-12f5edd9af61))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "#PWR0140") (unit 1)
         )
@@ -5259,7 +5259,7 @@
     )
     (pin "1" (uuid 51b3adee-23f0-4e7b-b93a-7fba0c9a8b20))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "#PWR021") (unit 1)
         )
@@ -5284,7 +5284,7 @@
     )
     (pin "1" (uuid 751a9a55-b046-4200-8f6a-a3f118dddef2))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "#PWR0139") (unit 1)
         )
@@ -5309,7 +5309,7 @@
     )
     (pin "1" (uuid 67472c57-134f-49e9-8911-4e30b4115c9a))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "#PWR08") (unit 1)
         )
@@ -5338,7 +5338,7 @@
     (pin "1" (uuid a35176d4-37ce-40a9-8156-acefdb98426e))
     (pin "2" (uuid be12b0aa-9543-469e-9778-ee5263239988))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "D1") (unit 1)
         )
@@ -5372,7 +5372,7 @@
     (pin "8" (uuid 88397f2c-5e0c-457a-a93d-455d23535273))
     (pin "9" (uuid 34e4d009-d7d6-46b8-b146-5d35a5221c7e))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "J1") (unit 1)
         )
@@ -5399,7 +5399,7 @@
     (pin "2" (uuid 805a326b-ae60-4918-be95-57f5fbf311c5))
     (pin "3" (uuid 78b4add4-1f94-40ef-8689-d5793c50e08d))
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34"
           (reference "U1") (unit 1)
         )
@@ -5482,7 +5482,7 @@
       (uuid a9e1c70f-d94b-4011-a6c4-667c4aae2f4d)
     )
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34" (page "2"))
       )
     )
@@ -5563,7 +5563,7 @@
       (uuid 411b9e7f-069a-47cb-8c64-7663b98a3fc0)
     )
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34" (page "4"))
       )
     )
@@ -5644,7 +5644,7 @@
       (uuid fae4d8af-146b-45d1-8946-c200f8db5197)
     )
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34" (page "5"))
       )
     )
@@ -5725,7 +5725,7 @@
       (uuid 30d0d827-1a84-433b-b42e-2d8203201eb6)
     )
     (instances
-      (project "Quadraphone"
+      (project "Quadraphone_Components"
         (path "/ae823ff6-f75c-4374-a57b-028bd2cefa34" (page "3"))
       )
     )

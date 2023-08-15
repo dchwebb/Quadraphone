@@ -28,3 +28,4 @@ Quadraphone_Controls-backups/
 \#auto_saved_files\#
 *.kicad_sch-bak
 
+*.lck
