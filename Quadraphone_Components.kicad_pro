@@ -56,9 +56,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "clearance|108528572|146951446|8b9539f4-a301-4fd5-8987-3dece86044f7|ff675227-c633-49c0-bb92-8abd528a4856"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
