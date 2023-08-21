@@ -48,7 +48,13 @@
           "min_clearance": 0.5
         }
       },
-      "diff_pair_dimensions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
       "drc_exclusions": [
         "silk_over_copper|106600000|135180000|150931f7-039d-4b92-8e51-2e5a8c603ab3|00000000-0000-0000-0000-000000000000",
         "silk_over_copper|106600000|143547387|176dc1ed-60f0-44b3-95b8-6ef5329a5a24|00000000-0000-0000-0000-000000000000",
@@ -170,8 +176,15 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
-      "track_widths": [],
-      "via_dimensions": [],
+      "track_widths": [
+        0.0
+      ],
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        }
+      ],
       "zones_allow_external_fillets": false
     },
     "layer_presets": [],
@@ -182,7 +195,10 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      "pin_not_connected|596900|495300|96c12e6c-1b2a-4b30-9e7a-c72d6cb434fc|00000000-0000-0000-0000-000000000000|||",
+      "pin_not_connected|787400|685800|c3b11142-64ba-4e27-8acc-d59cfabb0d22|00000000-0000-0000-0000-000000000000|||"
+    ],
     "meta": {
       "version": 0
     },
@@ -414,7 +430,7 @@
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.25,
+        "track_width": 0.3,
         "via_diameter": 0.8,
         "via_drill": 0.4,
         "wire_width": 6
